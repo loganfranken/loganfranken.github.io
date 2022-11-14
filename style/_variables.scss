@@ -1,0 +1,38 @@
+$max-container-width: 800px;
+$max-header-width: 480px;
+
+$background-color: #FFF;
+
+$border-color: #CCC;
+$border-color-secondary: #DDD;
+
+$primary-color: #4b8dd2;
+$secondary-color: lighten($primary-color, 10);
+
+$link-color: darken($primary-color, 20);
+
+$base-text-color: #111;
+$base-font-stack: 'Heebo', sans-serif;
+
+$header-font-stack: $base-font-stack;
+
+$button-text-color: #FFF;
+$button-font-stack: $base-font-stack;
+$button-color: $primary-color;
+$button-hover-color: $secondary-color;
+
+$form-border-color: $border-color;
+$form-border-color-active: $secondary-color;
+$form-font-stack: $base-font-stack;
+
+$nav-font-stack: $base-font-stack;
+$nav-text-color: $base-text-color;
+$nav-selected-color: $primary-color;
+$nav-selected-color-alt: #FFF;
+
+$post-date-color: $base-text-color;
+
+$error-color: #C00;
+
+$emph-border-color: adjust-lightness($primary-color, 25);
+$emph-background-color: adjust-saturation(adjust-lightness($primary-color, 62), -50);
