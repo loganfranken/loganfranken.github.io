@@ -2,7 +2,7 @@
 layout: blog
 title: "Overriding Equals in C# (Part 1)"
 categories: Tutorials
-redirect_from: /blog/687/overriding-equals-in-c-part-1
+redirect_from: /blog/687/overriding-equals-in-c-part-1/
 ---
 
 This post is **part one** in a series:
