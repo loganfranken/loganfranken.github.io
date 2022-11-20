@@ -1,7 +1,8 @@
 ---
-title: "About Me"
-curr_section: "about"
+curr_section: about
 ---
+
+# About Me
 
 My name is **Logan Franken**.
 

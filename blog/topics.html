@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Topics
 curr_section: blog
 ---
+
+<h1>Topics</h1>
 
 <p>
     Here's a list of posts from my blog, organized by topic:
 </p>
 
 {% for category in site.categories %}
-    <h2>{{ category[0] }}</h2>
+    <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
     <ul class="post-list">
     {% for post in category[1] %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>

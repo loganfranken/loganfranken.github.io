@@ -2,6 +2,8 @@
 title: "Hello!"
 ---
 
+# Hello!
+
 My name is **Logan Franken**.
 I'm a **full-stack web developer**.
 
