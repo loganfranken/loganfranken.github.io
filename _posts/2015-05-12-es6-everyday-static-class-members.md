@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Static Class Members"
-date: "2015-05-12"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/1027/es6-everyday-static-class-members
 ---
 
 Along with [classes](http://www.loganfranken.com/blog/852/es6-everyday-classes/), ES6 also gives us **static class members**.

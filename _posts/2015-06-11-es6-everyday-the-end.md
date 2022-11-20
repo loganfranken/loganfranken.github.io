@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: The End"
-date: "2015-06-11"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/1161/es6-everyday-the-end
 ---
 
 We made it!

@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "Using Web Forms Responsibly (Part 3): Don't Go Control Crazy"
-date: "2014-07-30"
-categories: 
-  - "development"
-tags: 
-  - "net"
-  - "asp-net"
-  - "web-forms"
+categories: Tutorials
+redirect_from: /blog/563/using-web-forms-responsibly-part-3-dont-go-control-crazy
 ---
 
 Say I want to link a user to my "About.aspx" page.

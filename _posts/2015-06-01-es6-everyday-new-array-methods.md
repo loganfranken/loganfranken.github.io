@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: New Array Methods"
-date: "2015-06-01"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/896/es6-everyday-new-array-methods
 ---
 
 ES6 brings a whole slew of new `Array` methods. Let's check them out:

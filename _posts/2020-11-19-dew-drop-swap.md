@@ -1,8 +1,8 @@
 ---
+layout: blog
 title: "Dew Drop Swap"
-date: "2020-11-19"
-categories: 
-  - "video-games"
+categories: ["Video Games"]
+redirect_from: /blog/1660/dew-drop-swap
 ---
 
 In 2017, game designer Jennifer Scheurle started [a Twitter thread](https://www.polygon.com/2017/9/2/16247112/video-game-developer-secrets), asking designers to share mechanics that are "hidden" from players. The thread included a number of fascinating anecdotes:
@@ -42,7 +42,7 @@ When _Dew Drop Swap_ begins, a Guide appears in the form of a small leaf, announ
 
 During the first couple of levels, basic mechanics are introduced (combos, a timer) while the Guide enthusiastically showers you with compliments ("Oh doozle! You're amazing!"). Cheerful music plays alongside the juicy pings of each successful match.
 
-![Screenshot of Dew Drop Swap, with the Guide smiling and saying "Doozle! You're almost there!"](images/dew_drop_swap_01-2.png)
+![Screenshot of Dew Drop Swap, with the Guide smiling and saying "Doozle! You're almost there!"](/blog/images/dew_drop_swap_01-2.png)
 
 And then, in a jarring shift from this saccharine introduction, you're given an abruptly difficult challenge: collect 100 dew drops in 30 seconds. As the round starts, the timer immediately starts flashing to indicate you're almost out of time. You start swapping, moving as quickly as you can. Getting a few isolated matches here and there, but no combos. In a panic, you select the wrong dew drop, hopelessly swapping two mismatched colors only to watch them limply return to their original positions. And, then, finally: you stumble into a string of combos, the match sound rising in pitch as each dew drop falls into place.
 
@@ -56,7 +56,7 @@ As the timer hits zero and the player braces for a familiar "Game Over" screen, 
 
 And then unceremoniously shuttles you onto the next level.
 
-![Screenshot of Dew Drop Swap, with the Guide frowning and saying "We're not doing the 'Lose in a Panic' scenario today."](images/dew_drop_swap_02.png)
+![Screenshot of Dew Drop Swap, with the Guide frowning and saying "We're not doing the 'Lose in a Panic' scenario today."](/blog/images/dew_drop_swap_02.png)
 
 From here on out, _Dew Drop Swap_ shifts, from a game that centers you as its hero to a game that centers you as its hero while excessively telling you it's centering you. In one level, you're told in advance you'll get combos more easily, robbing you of any feeling of self-satisfaction. In another, the timer only advances as you get matches, creating perfect dramatic timing while diminishing your agency as a player.
 
@@ -84,4 +84,4 @@ Spending a year and half explicating my own humiliation into a game, it seems na
 
 At the center.
 
-![Screenshot of Dew Drop Swap, with the only the grid of dew drops displayed in the final scene](images/dew_drop_swap_03.png)
+![Screenshot of Dew Drop Swap, with the only the grid of dew drops displayed in the final scene](/blog/images/dew_drop_swap_03.png)

@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: The Iterator Protocol"
-date: "2015-05-20"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/886/es6-everyday-the-iterator-protocol
 ---
 
 [Yesterday](http://www.loganfranken.com/blog/884/es6-everyday-for-of-loops-and-the-iterable-protocol/), we learned that ES6 defines a new "iterable protocol." Along with that protocol, ES6 also introduces the **"iterator protocol."**

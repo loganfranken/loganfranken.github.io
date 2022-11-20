@@ -6,11 +6,11 @@ redirect_from: /blog/64/html5-canvas-balloon
 ---
 Today we’re going to draw a balloon on the HTML5 canvas element. Why not, right? Here’s the final result:
 
-![HTML5 Canvas Balloon](/images/canvas_balloon.jpg)
+![HTML5 Canvas Balloon](/blog/images/canvas_balloon.jpg)
 
 The balloon shape is basically a circle stretched out in various places. However, it’s not that straightforward to simply draw a circle and then stretch it with the canvas API. Instead, we need to recreate a circle using four cubic Bézier curves:
 
-![Circle Bezier Curve Count](/images/circle_bezier_count.png)
+![Circle Bezier Curve Count](/blog/images/circle_bezier_count.png)
 
 After beginning this process, I discovered that it is actually *impossible* to create a perfect circle using cubic Bézier curves. Instead, you can only get a very close approximation using a constant called “kappa”. So to calculate the length of the “handles” (or the distance from a control point to a corresponding point on the curve), we use the following formula:
 

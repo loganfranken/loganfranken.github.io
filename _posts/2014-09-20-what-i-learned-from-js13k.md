@@ -1,11 +1,8 @@
 ---
+layout: blog
 title: "What I Learned From JS13K"
-date: "2014-09-20"
-categories: 
-  - "development"
-tags: 
-  - "game"
-  - "javascript"
+categories: ["Video Games"]
+redirect_from: /blog/603/what-i-learned-from-js13k
 ---
 
 **[JS13K](http://js13kgames.com/)** is a competition wherein developers are challenged to create a game using primarily JavaScript (as well as HTML and CSS) with a total file size of less than 13 kilobytes. The theme of the contest was the elements (earth, water, wind, and fire).

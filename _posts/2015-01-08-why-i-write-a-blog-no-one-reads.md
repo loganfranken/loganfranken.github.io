@@ -1,9 +1,8 @@
 ---
+layout: blog
 title: "Why I Write a Blog No One Reads"
-date: "2015-01-08"
-categories: 
-  - "personal"
-  - "writing"
+categories: Essays
+redirect_from: /blog/704/why-i-write-a-blog-no-one-reads
 ---
 
 Let's be honest: this isn't a well-read blog.

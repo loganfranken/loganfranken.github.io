@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Extending Built-in Classes"
-date: "2015-05-14"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/864/es6-everyday-extending-built-in-classes
 ---
 
 Along with [inheritance of our own classes](http://www.loganfranken.com/blog/855/es6-everyday-class-inheritance/), ES6 also offers us the ability to **extend built-in classes**.

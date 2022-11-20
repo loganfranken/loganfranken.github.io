@@ -1,10 +1,8 @@
 ---
+layout: blog
 title: "Device Classification in the UCLA Mobile Web Framework"
-date: "2011-10-02"
-categories: 
-  - "development"
-tags: 
-  - "ucla-mwf"
+categories: Tutorial
+redirect_from: /blog/220/device-classification-in-the-ucla-mobile-web-framework
 ---
 
 **UPDATE**: The device classifications covered in this article are now [fully documented](https://github.com/ucla/mwf/wiki/General%3A-Device-Classifications). As the UCLA Mobile Web Framework is rapidly evolving, you're better off getting the information [straight from the source](https://github.com/ucla/mwf/wiki/General%3A-Device-Classifications).

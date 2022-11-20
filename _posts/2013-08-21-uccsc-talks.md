@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "UCCSC Talks"
-date: "2013-08-21"
-categories: 
-  - "presentations"
-tags: 
-  - "open-source"
-  - "responsive"
-  - "webblocks"
+categories: Talks
+redirect_from: /blog/397/uccsc-talks
 ---
 
 This year's [UCCSC](https://uccsc.uci.edu/) at UC Irvine was a lot of fun: it's always nice (and reassuring) to hear about the experiences and challenges of those building student systems at the other UCs.

@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Arrow Functions"
-date: "2015-04-29"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/850/es6-everyday-arrow-functions
 ---
 
 Get ready for a fun one!

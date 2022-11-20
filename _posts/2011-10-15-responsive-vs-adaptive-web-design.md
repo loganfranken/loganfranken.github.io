@@ -1,15 +1,11 @@
 ---
+layout: blog
 title: "Responsive vs Adaptive Web Design"
-date: "2011-10-15"
-categories: 
-  - "design"
-tags: 
-  - "adaptive"
-  - "css"
-  - "responsive"
+redirect_from: /blog/251/responsive-vs-adaptive-web-design/
+categories: Essays
 ---
 
-**Update:** A [recent blog post](http://bradfrostweb.com/blog/post/the-many-faces-of-adaptive-design/) by Brad Frost resurfaced this discussion. In the post, Brad proposes that "adaptive design" refers to the broad approach of creating interfaces that adapt to the needs and capabilities of the User. Responsive design is simply one technique within an adaptive design approach. Of course, this definition conflicts with the definition outlined below; it will be interesting to see how these concepts and their definitions evolve over time.
+**Update:** A [recent blog post](https://bradfrost.com/blog/post/the-many-faces-of-adaptive-design/) by Brad Frost resurfaced this discussion. In the post, Brad proposes that "adaptive design" refers to the broad approach of creating interfaces that adapt to the needs and capabilities of the User. Responsive design is simply one technique within an adaptive design approach. Of course, this definition conflicts with the definition outlined below; it will be interesting to see how these concepts and their definitions evolve over time.
 
 Here's the quick and dirty difference:
 

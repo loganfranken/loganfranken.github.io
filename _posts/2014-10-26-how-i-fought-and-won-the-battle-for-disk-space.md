@@ -1,10 +1,8 @@
 ---
+layout: blog
 title: "How I Fought and Won the Battle for Disk Space"
-date: "2014-10-26"
-categories: 
-  - "personal"
-tags: 
-  - "disk-space"
+categories: Tutorials
+redirect_from: /blog/640/how-i-fought-and-won-the-battle-for-disk-space
 ---
 
 For the past year or so, I have been strapped for disk space on my C: drive.

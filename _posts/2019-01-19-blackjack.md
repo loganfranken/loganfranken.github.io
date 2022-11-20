@@ -1,8 +1,8 @@
 ---
+layout: blog
 title: "Blackjack"
-date: "2019-01-19"
-categories: 
-  - "video-games"
+categories: ["Video Games"]
+redirect_from: /blog/1582/blackjack
 ---
 
 In the late nineties, my grandfather passed away, leaving behind his farm. In his old age, he hadn't been able to upkeep the land and it was falling apart: there were no crops, no animals, and the fields were covered in rocks and weeds. It was a mess. My father wanted to sell, but I couldn't bear to lose the farm: it felt like we were selling off a piece of my grandfather. So, against the better judgement of my friends, family, and all common sense, I uprooted my life and moved onto my grandfather's farm, dedicating myself to restoring the old plot of land to its former glory.
@@ -43,7 +43,7 @@ I created [Blackjack](https://loganfranken.itch.io/blackjack) to help me think t
 
 After a few rounds, Chip, instead of simply asking if you want to "Hit" or "Stand", will ask you, "How are you doing today?", forcing the player to either choose "Pretty good! **Hit**" or "Not so great. **Stand**". As a result, the development of an emotional relationship with Chip becomes inextricably linked with the mechanics of the blackjack game itself. Depending on the cards, the player may want to "Stand" for gameplay purposes, but may be uncomfortable with "Not so great" as a response for emotional development with the character, Chip.
 
-![Screenshot of Blackjack](images/blackjack.jpg)
+![Screenshot of Blackjack](/blog/images/blackjack.jpg)
 
 The difficulty of choosing between these options only grows as Chip keeps increasing the current bet (threatening a game over, which ends all dialogue options) and as Chip continues to ask increasingly intimate questions, furthering the opportunity for emotional development between you two.
 

@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: New String Methods"
-date: "2015-04-24"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/869/es6-everyday-new-string-methods
 ---
 
 Let's end the week with an easy topic: some handy new String methods in ES6.

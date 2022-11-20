@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: const Keyword"
-date: "2015-04-27"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/843/es6-everyday-const-keyword
 ---
 
 Starting off our week with one that's pretty straightforward: the `const` keyword.

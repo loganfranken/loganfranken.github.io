@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Proxies"
-date: "2015-06-09"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/900/es6-everyday-proxies
 ---
 
 ES6 introduces a new meta-programming object called the **`Proxy`**.

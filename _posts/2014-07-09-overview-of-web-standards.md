@@ -1,11 +1,8 @@
 ---
+layout: blog
 title: "Overview of Web Standards"
-date: "2014-07-09"
-categories: 
-  - "presentations"
-tags: 
-  - "ucsb"
-  - "web-standards"
+categories: Talks
+redirect_from: /blog/532/overview-of-web-standards
 ---
 
 Before I left Santa Barbara for Seattle, my fellow Web Standards Group co-chair, David Gurba, and I hosted a workshop introducing staff at the University of California, Santa Barbara campus to web standards.

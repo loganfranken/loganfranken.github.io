@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Rest Parameters"
-date: "2015-04-16"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/807/es6-everyday-rest-parameters
 ---
 
 With ES6, you can now provide a **rest parameter** to a function that takes a variable amount of parameters and passes them as an array to a function. First thing I thought of creating with this was a simple string formatting function:

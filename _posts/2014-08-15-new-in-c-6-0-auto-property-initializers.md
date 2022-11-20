@@ -1,10 +1,8 @@
 ---
+layout: blog
 title: "New in C# 6.0: Auto-Property Initializers"
-date: "2014-08-15"
-categories: 
-  - "development"
-tags: 
-  - "c"
+categories: Tutorials
+redirect_from: /blog/586/new-in-c-6-0-auto-property-initializers
 ---
 
 **C# 6.0** is coming and there are [a lot of exciting new features](https://roslyn.codeplex.com/wikipage?title=Language%20Feature%20Status&referringTitle=Documentation) on the way.

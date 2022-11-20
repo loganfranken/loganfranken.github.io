@@ -1,16 +1,11 @@
 ---
+layout: blog
 title: "Introduction to Web Accessibility"
-date: "2014-03-09"
-categories: 
-  - "presentations"
-tags: 
-  - "accessibility"
-  - "css"
-  - "html"
-  - "javascript"
+categories: Talks
+redirect_from: /blog/496/introduction-to-web-accessibility
 ---
 
-![Photo of Logan Franken speaking](images/photo-1024x768.jpg)
+![Photo of Logan Franken speaking](/blog/images/photo-1024x768.jpg)
 
 (Photo credit: [Eric Mayes](http://www.simplyemazing.com/))
 

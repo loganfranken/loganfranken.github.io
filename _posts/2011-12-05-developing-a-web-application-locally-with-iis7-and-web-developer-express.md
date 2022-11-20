@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "Developing a Web Application Locally with IIS7 and Web Developer Express"
-date: "2011-12-05"
-categories: 
-  - "development"
-tags: 
-  - "c"
-  - "iis"
-  - "visual-studio"
+categories: Tutorials
+redirect_from: /blog/284/developing-a-web-application-locally-with-iis7-and-web-developer-express/
 ---
 
 This post will guide you through developing a web application locally with IIS7 and Web Developer Express.
@@ -23,11 +19,11 @@ Next, we'll [install Visual Web Developer 2010 Express](http://www.microsoft.com
 
 Open up Visual Web Developer and select "File" > "New Project...". For this tutorial, create a new project with the "ASP.NET Empty Web Application" template under "Visual C#" > "Web" (or "Visual Basic" > "Web", if you prefer Visual Basic):
 
-![Creating a new web application project in Visual Studio](images/localweb_screen1.png "Local IIS Development: Screenshot 1")
+![Creating a new web application project in Visual Studio](/blog/images/localweb_screen1.png "Local IIS Development: Screenshot 1")
 
 Let's create a page so we have something to look at when we debug our web application. Go to "Project" > "Add New Item...", choose "Web Form", and name it "Default.aspx":
 
-![Adding a Default.aspx to the project](images/localweb_screen2.png "Local IIS Development: Screenshot 2")
+![Adding a Default.aspx to the project](/blog/images/localweb_screen2.png "Local IIS Development: Screenshot 2")
 
 Add a little text to the page (right between the body tags):
 
@@ -59,11 +55,11 @@ This will redirect all requests to "example.local" back to our local IIS. I like
 
 Alright, we're almost there, now let's get our web application hosted! Open IIS Manager, right-click the "Sites" node in the left-hand menu and select "Add Web Site...":
 
-![Adding a new website in IIS Manager](images/localweb_screen3.png "Local IIS Development: Screenshot 3")
+![Adding a new website in IIS Manager](/blog/images/localweb_screen3.png "Local IIS Development: Screenshot 3")
 
 For simplicity, use the hostname you chose in Step 4 as your "Site name" and provide that value under the "Host name" field as well. Finally, in the "Physical path" field, provide the directory containing the "Default.aspx" file you created in Step 3:
 
-![Configuring the new website in IIS Manager](images/localweb_screen4.png "Local IIS Development: Screenshot 4")
+![Configuring the new website in IIS Manager](/blog/images/localweb_screen4.png "Local IIS Development: Screenshot 4")
 
 ## 6\. Test Your Web Application
 
@@ -73,7 +69,7 @@ Alright, now let's test our handiwork. Pop open a browser and navigate to your w
 
 The real power of locally developing a web application in IIS comes with debugging your web application's code right from Visual Studio. Head back into Visual Web Developer, open "Solution Explorer" (go to "View" > "Other Windows" > "Solution Explorer"), and open the "Default.aspx.cs" page (you may need to expand "Default.aspx" to find it):
 
-![The Solution Explorer in Visual Web Developer Express](images/localweb_screen5.png "Local IIS Development: Screenshot 5")
+![The Solution Explorer in Visual Web Developer Express](/blog/images/localweb_screen5.png "Local IIS Development: Screenshot 5")
 
 Add the following code to the Page\_Load method:
 
@@ -86,10 +82,10 @@ protected void Page_Load(object sender, EventArgs e)
 
 Add a breakpoint (by clicking in the left sidebar alongside the code) on the closing brace of the Page\_Load method:
 
-![Adding a breakpoint](images/localweb_screen6.png "Local IIS Development: Screenshot 6")
+![Adding a breakpoint](/blog/images/localweb_screen6.png "Local IIS Development: Screenshot 6")
 
 Now go back into "Solution Explorer", right-click the root node of your web application, and select "Properties". This will open the settings screen for your web application. Select the "Web" tab on the left-hand menu and find the "Use Local IIS Web Server" option (under "Servers"). Select this option and provide your web application's URL in the "Project URL" field:
 
-![Setting up debugging for local IIS](images/localweb_screen7.png "Local IIS Development: Screenshot 7")
+![Setting up debugging for local IIS](/blog/images/localweb_screen7.png "Local IIS Development: Screenshot 7")
 
 Now try pressing the green arrow at the top or F5 to start debugging. Your web browser should fly open and Visual Studio will display the "Default.aspx.cs" file, stopping at your breakpoint. Awesome, now you've got a web application running on your local IIS _and_ you're debugging that same web application right within Visual Web Developer Express!

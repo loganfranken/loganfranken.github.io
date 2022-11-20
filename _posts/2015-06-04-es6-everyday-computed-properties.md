@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Computed Properties"
-date: "2015-06-04"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/912/es6-everyday-computed-properties
 ---
 
 You're familiar with creating an object literal in JavaScript:

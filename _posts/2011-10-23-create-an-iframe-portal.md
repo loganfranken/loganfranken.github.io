@@ -1,19 +1,13 @@
 ---
+layout: blog
 title: "Create an Iframe Portal"
-date: "2011-10-23"
-categories: 
-  - "design"
-  - "development"
-tags: 
-  - "css"
-  - "css3"
-  - "javascript"
-  - "video-games"
+categories: Doodles
+redirect_from: /blog/262/create-an-iframe-portal/
 ---
 
-To get a little practice with CSS3 keyframe animations, let's do something a little strange: create an iframe portal like the portals in [Portal](http://www.thinkwithportals.com/). [Check out the demo in either Firefox or Chrome](https://www.loganfranken.com/projects/iframeportal/) (click anywhere to shoot a portal). Here's a screenshot of the the end result:
+To get a little practice with CSS3 keyframe animations, let's do something a little strange: create an iframe portal like the portals in [Portal](http://www.thinkwithportals.com/). [Check out the demo in either Firefox or Chrome](https://loganfranken.github.io/Iframe-Portal/) (click anywhere to shoot a portal). Here's a screenshot of the the end result:
 
-![Iframe Portal](images/portal_screenshot.png "Iframe Portal")
+![Iframe Portal](/blog/images/portal_screenshot.png "Iframe Portal")
 
 To start, let's make an `iframe` that looks like a portal. Here's our markup:
 

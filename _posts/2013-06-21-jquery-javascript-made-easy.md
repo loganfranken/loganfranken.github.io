@@ -1,11 +1,8 @@
 ---
+layout: blog
 title: "jQuery: JavaScript, Made Easy"
-date: "2013-06-21"
-categories: 
-  - "presentations"
-tags: 
-  - "javascript"
-  - "jquery"
+categories: Talks
+redirect_from: /blog/392/jquery-javascript-made-easy/
 ---
 
 I gave a talk on jQuery at the University of California, Santa Barbara with my fellow developer and friend, Jeff Pignataro.

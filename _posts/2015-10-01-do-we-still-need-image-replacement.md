@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "Do We Still Need Image Replacement?"
-date: "2015-10-01"
-categories: 
-  - "development"
-tags: 
-  - "accessibility"
-  - "css"
-  - "html"
+categories: Research
+redirect_from: /blog/1244/do-we-still-need-image-replacement
 ---
 
 Let's have a history lesson.

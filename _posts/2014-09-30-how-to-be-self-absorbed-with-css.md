@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "How To Be Self-Absorbed With CSS"
-date: "2014-09-30"
-categories: 
-  - "design"
-  - "development"
-tags: 
-  - "css"
-  - "css3"
+categories: Doodles
+redirect_from: /blog/609/how-to-be-self-absorbed-with-css
 ---
 
 When I redesigned my website a few months ago, I wanted to do something fun with the title. So I decided to **recreate my initials ("LF") with CSS**. To take it up a notch, I wanted to leave open the background of the initials to be filled with whatever I saw fit (a color, an image, a video, whatever).

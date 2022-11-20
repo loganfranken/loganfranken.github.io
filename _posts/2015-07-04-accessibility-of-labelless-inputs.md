@@ -1,11 +1,8 @@
 ---
+layout: blog
 title: "Accessibility of Labelless Inputs"
-date: "2015-07-04"
-categories: 
-  - "development"
-tags: 
-  - "accessibility"
-  - "aria"
+categories: Research
+redirect_from: /blog/1196/accessibility-of-labelless-inputs
 ---
 
 When reading about web accessibility, you tend to hear a couple of axioms repeated over and over, like:
@@ -22,15 +19,15 @@ But what about the cases where you _don't_ want a label?
 
 For example, check out this search form:
 
-![Search Input with Label](images/search_bar_with_label.png)
+![Search Input with Label](/blog/images/search_bar_with_label.png)
 
 The additional "Search Query" `label` is so visually redundant: it's likely understood by users that whatever they enter into the search box will serve as the query for their search. In fact, this is a pattern ingrained into the brains of most users by search engines:
 
-![Google Search Bar](images/google_search_bar.png)
+![Google Search Bar](/blog/images/google_search_bar.png)
 
-![Bing Search Bar](images/bing_search_engine.png)
+![Bing Search Bar](/blog/images/bing_search_engine.png)
 
-![Yahoo! Search Bar](images/yahoo_search_engine.png)
+![Yahoo! Search Bar](/blog/images/yahoo_search_engine.png)
 
 ## Dropping the Label
 
@@ -127,11 +124,11 @@ Furthermore, our [tests](http://loganfranken.github.io/web-standards-testing/tit
 
 However, `title` also exhibits this specific behavior where it causes a tooltip to appear (often on mouse hover, sometimes on keyboard focus):
 
-![Use of title attribute on a field without a label in Chrome](images/title_search_bar_chrome.png)
+![Use of title attribute on a field without a label in Chrome](/blog/images/title_search_bar_chrome.png)
 
-![Use of title attribute on a field without a label in Firefox](images/title_search_bar_firefox.png)
+![Use of title attribute on a field without a label in Firefox](/blog/images/title_search_bar_firefox.png)
 
-![Use of title attribute on a field without a label in Internet Explorer ](images/title_search_bar_ie.png)
+![Use of title attribute on a field without a label in Internet Explorer ](/blog/images/title_search_bar_ie.png)
 
 We're definitely better off than we were before: we've got a screenreader-accessible label without any CSS hacks. But the fact that `title` is considered brittle for accessibility and that looming tooltip make me nervous: can't we do better than `title`?
 

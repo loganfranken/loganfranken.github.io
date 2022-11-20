@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Shorthand Properties and Methods"
-date: "2015-06-05"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/910/es6-everyday-shorthand-properties-and-methods
 ---
 
 Take a look at this:

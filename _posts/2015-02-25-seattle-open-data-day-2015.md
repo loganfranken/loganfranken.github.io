@@ -1,15 +1,11 @@
 ---
+layout: blog
 title: "Seattle Open Data Day 2015"
-date: "2015-02-25"
-categories: 
-  - "development"
-tags: 
-  - "conference"
-  - "open-data"
-  - "seattle"
+categories: Essays
+redirect_from: /blog/745/my-first-hackathon
 ---
 
-![Attendees gathering to choose the topics for the Seattle Open Data Day](images/IMG_20150221_101722140_HDR-1024x576.jpg)
+![Attendees gathering to choose the topics for the Seattle Open Data Day](/blog/images/IMG_20150221_101722140_HDR-1024x576.jpg)
 
 This past weekend I attended the **[Seattle Open Data Day](http://codeforseattle.org/open-data-day/) "unconference"**. It was an entire day dedicated to discussing and exploring how we, as developers, as policy makers, as government employees, as designers, as citizens, can use open data to help support our city.
 

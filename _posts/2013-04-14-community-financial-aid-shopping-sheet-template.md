@@ -1,14 +1,8 @@
 ---
+layout: blog
 title: "Community Financial Aid Shopping Sheet Template"
-date: "2013-04-14"
-categories: 
-  - "development"
-tags: 
-  - "css"
-  - "financial-aid"
-  - "html"
-  - "open-source"
-  - "template"
+categories: Projects
+redirect_from: /blog/376/community-financial-aid-shopping-sheet-template/
 ---
 
 **Update:** This project has been discontinued. However, don't worry! The University of California, Santa Barbara has released a [similar template](https://github.com/ucsbfinaid/Shopping-Sheet).

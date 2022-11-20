@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Modules"
-date: "2015-06-09"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/906/es6-everyday-modules
 ---
 
 For a lot of longtime JavaScript developers (and especially those from the Node world), this is long overdue: yes, ES6 has **modules**.

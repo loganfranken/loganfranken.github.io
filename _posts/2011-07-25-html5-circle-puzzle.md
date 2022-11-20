@@ -6,7 +6,7 @@ redirect_from: /blog/22/html5-circle-puzzle
 ---
 I was messing around with the HTML5 canvas element this morning, and I came up with something kind of fun. It’s basically a puzzle built with a series of rotating concentric circles that you can drag. Here’s a screenshot:
 
-![Circle Puzzle Thumbnail](/images/circlepuzzle.jpg)
+![Circle Puzzle Thumbnail](/blog/images/circlepuzzle.jpg)
 
 [Check it out](https://loganfranken.github.io/Circle-Puzzle/). Keep in mind that I didn’t add any logic to confirm that you’ve won, however, so don’t knock yourself out. Feel free to download the script and fiddle with it. It’s pretty simple to switch out the image and add more circles:
 

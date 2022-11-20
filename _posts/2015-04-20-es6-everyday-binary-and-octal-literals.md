@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Binary and Octal Literals"
-date: "2015-04-20"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/817/es6-everyday-binary-and-octal-literals
 ---
 
 Here's a nice and easy one to start our week; you can now represent **binary** and **octal** numbers with literals:

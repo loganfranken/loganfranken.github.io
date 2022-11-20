@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Typed Arrays"
-date: "2015-06-02"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/904/es6-everyday-typed-arrays
 ---
 
 **"Typed arrays"** provide an efficient method for accessing and manipulating data. The motivation behind this is to provide a construct to handle all of the raw binary data that will start flowing into JavaScript (audio data, video data, etc.).

@@ -1,13 +1,11 @@
 ---
+layout: blog
 title: "My Second Hackathon"
-date: "2015-04-05"
-categories: 
-  - "development"
-tags: 
-  - "hackathon"
+categories: Essays
+redirect_from: /blog/917/my-second-hackathon
 ---
 
-![Opening night presentations](images/CAlbK_XUMAApGfY.jpg)
+![Opening night presentations](/blog/images/CAlbK_XUMAApGfY.jpg)
 
 A couple weekends ago, I attended my second hackathon, **[Hack The Commute](http://hackthecommute.seattle.gov/)**, a hackathon focused on transit-related issues in Seattle.
 
@@ -17,7 +15,7 @@ But I'm so happy that I didn't.
 
 ## The Environment
 
-![Outside the Moz offices](images/CAp_w-1UMAAc0w0.jpg)
+![Outside the Moz offices](/blog/images/CAp_w-1UMAAc0w0.jpg)
 
 The hackathon was held at the beautiful [Moz offices in Seattle](http://moz.com/about/seattle).
 
@@ -29,7 +27,7 @@ Oh, and a keg for Sunday night during the closing presentations.
 
 ## The Structure
 
-![Hack the Commute team working](images/CApLjf3UsAAqQw4.jpg)
+![Hack the Commute team working](/blog/images/CApLjf3UsAAqQw4.jpg)
 
 The organizers of Hack the Commute took an interesting approach to idea and team formation for this event: rather than placing the emphasis on forming teams and letting teams generate the ideas, **the emphasis was placed on the ideas themselves**.
 
@@ -45,7 +43,7 @@ Hackathons tend to emphasize the ingenuity and self-reliance of the teams compet
 
 ## The Projects
 
-![Hack the Commute team working](images/CAvS8Y3UMAAFEmL.jpg)
+![Hack the Commute team working](/blog/images/CAvS8Y3UMAAFEmL.jpg)
 
 There were a [number of exciting projects](http://hackthecommute.seattle.gov/2015/03/25/hack-the-commute-recap/), many of whom had immediate usability, including [Ferry Fairy](https://github.com/FerryTime/HackTheCommute), an application that helps you determine if you can find a spot on a ferry, and [Carpool Casual](https://github.com/PaulYoum/Carpool-Casual), a carpooling app that was actually used to arrange carpools the second day of the event.
 

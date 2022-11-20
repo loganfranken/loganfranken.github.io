@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "There is No Open-Source Higher Education Ecosystem"
-date: "2016-07-16"
-categories: 
-  - "higher-education"
-  - "presentations"
-tags: 
-  - "higher-ed"
-  - "open-source"
+categories: Essays
+redirect_from: /blog/1375/there-is-no-open-source-higher-education-ecosystem
 ---
 
 _This is a post based on a talk I gave at [HighEdWeb West 2016](http://west16.highedweb.org/schedule/open-source/). View the [slides](https://speakerdeck.com/loganfranken/turning-the-monolith-inside-out-open-source-and-higher-education-systems)._
@@ -27,7 +23,7 @@ And, in fact, this is the approach most developers would take in building a mode
 
 (I actually [built](https://github.com/loganfranken/percolist) this [application](https://percolist.herokuapp.com/), just in case you thought I was lying)
 
-[![Picture of application developed using a open-source components](images/open_source_higher_ed_01.jpg)](https://github.com/loganfranken/percolist)
+[![Picture of application developed using a open-source components](/blog/images/open_source_higher_ed_01.jpg)](https://github.com/loganfranken/percolist)
 
 ## What About Student Systems?
 
@@ -51,7 +47,7 @@ To get started, let's see what's out there for **open-source financial aid compo
 
 **Nothing.**
 
-![Screenshot of a GitHub search returning no results](images/open_source_higher_ed_02.jpg)
+![Screenshot of a GitHub search returning no results](/blog/images/open_source_higher_ed_02.jpg)
 
 Wait, what? That can't be right.
 
@@ -81,7 +77,7 @@ We tried; let's face it:
 
 ## Kuali
 
-[![Screenshot of the Kuali website](images/open_source_higher_ed_03.jpg)](https://www.kuali.org/ks)
+[![Screenshot of the Kuali website](/blog/images/open_source_higher_ed_03.jpg)](https://www.kuali.org/ks)
 
 At this point, you may be thinking: aren't you describing [Kuali](https://www.kuali.org/)?
 
@@ -95,7 +91,7 @@ Kuali represents a typical understanding of open-source within higher education 
 
 I refer to this dilemma as the **False Pizza Dichotomy of Higher Education Systems**.
 
-![Image displaying the words 'False Pizza Dichotomy of Higher Education Systems'](images/open_source_higher_ed_04.jpg)
+![Image displaying the words 'False Pizza Dichotomy of Higher Education Systems'](/blog/images/open_source_higher_ed_04.jpg)
 
 Let me explain.
 
@@ -125,7 +121,7 @@ Within higher education, the choice to either build or buy a new system often co
 
 This places schools at a disadvantage: either we go with the vendor solution or we take on the burden ourselves.
 
-![An image comparing the decision between 'build it' and 'buy it' to being caught between a 'rock' and a 'hard place'](images/open_source_higher_ed_05.jpg)
+![An image comparing the decision between 'build it' and 'buy it' to being caught between a 'rock' and a 'hard place'](/blog/images/open_source_higher_ed_05.jpg)
 
 This isn't how modern application development outside of higher education works and we shouldn't accept it within our world: **we should have more freedom in how we build our own systems.**
 
@@ -143,7 +139,7 @@ If it's such a good idea, why hasn't the higher education world embraced the sha
 
 In a word: **bureaucracy**.
 
-![An image showing the word 'Bureaucracy' repeated over and over](images/open_source_higher_ed_06.jpg)
+![An image showing the word 'Bureaucracy' repeated over and over](/blog/images/open_source_higher_ed_06.jpg)
 
 First, **bureaucracy begets bureaucracy**.
 

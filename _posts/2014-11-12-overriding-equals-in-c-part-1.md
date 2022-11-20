@@ -1,18 +1,15 @@
 ---
+layout: blog
 title: "Overriding Equals in C# (Part 1)"
-date: "2014-11-12"
-categories: 
-  - "development"
-tags: 
-  - "net"
-  - "c"
+categories: Tutorials
+redirect_from: /blog/687/overriding-equals-in-c-part-1
 ---
 
 This post is **part one** in a series:
 
 - Part 1
-- [Part 2](http://www.loganfranken.com/blog/692/overriding-equals-in-c-part-2/)
-- [Part 3](http://www.loganfranken.com/blog/698/overriding-equals-in-c-part-3/)
+- [Part 2]({% post_url 2014-11-17-overriding-equals-in-c-part-2 %})
+- [Part 3]({% post_url 2014-11-24-overriding-equals-in-c-part-3 %})
 
 (View the [completed example](https://github.com/loganfranken/overriding-equals-in-c-sharp/blob/master/OverridingEquals/PhoneNumber.cs))
 

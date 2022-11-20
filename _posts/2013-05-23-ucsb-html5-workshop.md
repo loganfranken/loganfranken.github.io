@@ -1,10 +1,8 @@
 ---
+layout: blog
 title: "UCSB HTML5 Workshop"
-date: "2013-05-23"
-categories: 
-  - "presentations"
-tags: 
-  - "html5"
+categories: Talks
+redirect_from: /blog/381/ucsb-html5-workshop/
 ---
 
 I recently hosted a hands-on workshop on HTML5 at UCSB, including a beginner session in the morning and a more advanced session in the afternoon.

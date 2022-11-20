@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "A Closer Look at Minification"
-date: "2015-01-18"
-categories: 
-  - "development"
-tags: 
-  - "javascript"
-  - "js13k"
-  - "minification"
+categories: Research
+redirect_from: /blog/725/a-closer-look-at-minification
 ---
 
 Here's an embarrassing anecdote: when I entered the [JS13K competition](http://www.loganfranken.com/blog/603/what-i-learned-from-js13k/), I was under the impression that the entire, uncompressed file size of your submission had to be under 13 kilobytes.

@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Classes"
-date: "2015-05-11"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/852/es6-everyday-classes
 ---
 
 After a week hiatus, we're back!

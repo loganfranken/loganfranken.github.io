@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Promises"
-date: "2015-05-15"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/879/es6-everyday-promises
 ---
 
 Let's close out the week with something really exciting!

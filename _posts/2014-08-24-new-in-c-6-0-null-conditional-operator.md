@@ -1,10 +1,8 @@
 ---
+layout: blog
 title: "New in C# 6.0: Null-Conditional Operator"
-date: "2014-08-24"
-categories: 
-  - "development"
-tags: 
-  - "c"
+categories: Tutorials
+redirect_from: /blog/594/new-in-c-6-0-null-conditional-operator
 ---
 
 Null checking can get real annoying real quick:

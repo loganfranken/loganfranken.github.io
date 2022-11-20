@@ -1,10 +1,8 @@
 ---
+layout: blog
 title: "New in C# 6.0: Declaration Expressions"
-date: "2014-08-17"
-categories: 
-  - "development"
-tags: 
-  - "c"
+categories: Tutorials
+redirect_from: /blog/589/new-in-c-6-0-declaration-expressions
 ---
 
 When attempting to parse and validate input, one approach is to reactively catch exceptions:

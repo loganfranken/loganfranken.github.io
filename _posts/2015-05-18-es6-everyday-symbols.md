@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Symbols"
-date: "2015-05-18"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/882/es6-everyday-symbols
 ---
 
 Alright, get yourself a cup of coffee: this one can be confusing.

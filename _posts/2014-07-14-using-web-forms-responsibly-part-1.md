@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "Using Web Forms Responsibly (Part 1)"
-date: "2014-07-14"
-categories: 
-  - "development"
-tags: 
-  - "net"
-  - "asp-net"
-  - "web-forms"
+categories: Tutorials
+redirect_from: /blog/536/using-web-forms-responsibly-part-1
 ---
 
 I am not a huge fan of ASP.NET Web Forms.

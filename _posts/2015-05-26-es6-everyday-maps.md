@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Maps"
-date: "2015-05-26"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/888/es6-everyday-maps
 ---
 
 ES6 gives us a new, native data structure: the **`Map`**!

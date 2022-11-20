@@ -1,15 +1,11 @@
 ---
+layout: blog
 title: "Set Up UCLA Mobile Web Framework on WampServer"
-date: "2011-09-25"
-categories: 
-  - "development"
-tags: 
-  - "php"
-  - "ucla-mwf"
-  - "wampserver"
+categories: Tutorial
+redirect_from: /blog/220/device-classification-in-the-ucla-mobile-web-framework
 ---
 
-**UPDATE**: If you read this post before, you might be wondering where all of the stuff about [WURFL](http://wurfl.sourceforge.net/) went. Well, since [version 1.2](https://github.com/ucla/mwf/blob/master/RELEASE), the UCLA Mobile Web Framework no longer depends on WURFL. This actually makes the installation process much smoother. Device capabilities are now determined by [storing information from Modernizr in a cookie](https://www.loganfranken.com/blog/220/device-classification-in-the-ucla-mobile-web-framework/).
+**UPDATE**: If you read this post before, you might be wondering where all of the stuff about [WURFL](http://wurfl.sourceforge.net/) went. Well, since [version 1.2](https://github.com/ucla/mwf/blob/master/RELEASE), the UCLA Mobile Web Framework no longer depends on WURFL. This actually makes the installation process much smoother. Device capabilities are now determined by [storing information from Modernizr in a cookie]({% post_url 2011-10-02-device-classification-in-the-ucla-mobile-web-framework %}).
 
 I wanted to set up my own local copy of the UCLA Mobile Web Framework (UCLA MWF) on WampServer. It was a pretty straightforward process, but I wanted to detail it anyway because I think it gives good insight on the internals of the framework.
 
@@ -40,7 +36,7 @@ The UCLA MWF requires a few directories (detailed in the [System Administration 
 
 With a default installation of WampServer, we can access the framework in a browser via `http://localhost/mwf/root`. Let's set up a more direct URL to the root.
 
-First, add the following entry to the end of your [hosts file](http://www.windowsreference.com/windows-7/edit-hosts-file-in-windows-7-windows-vista/):
+First, add the following entry to the end of your hosts file:
 
 ```markup
 127.0.0.1	uclamwf.local
@@ -48,7 +44,7 @@ First, add the following entry to the end of your [hosts file](http://www.window
 
 This will redirect all requests to the URL "uclamwf.local" back to your local machine (127.0.0.1 is the IP address corresponding to localhost). Keep in mind you could use any name you want here: "mwf.local", "uclamwf.com", whatever you like.
 
-Now that we have the requests coming back to the local machine, we need WampServer to pick up the requests and direct them to the correct place. Find the Apache configuration file `httpd.conf` in `C:\wamp\bin\apache\Apache2.2.17\conf` (your Apache version may differ), and make the following edits ([source](http://www.trailheadinteractive.com/creating_multiple_virtual_sites_a_single_apache_install_windows_xp)):
+Now that we have the requests coming back to the local machine, we need WampServer to pick up the requests and direct them to the correct place. Find the Apache configuration file `httpd.conf` in `C:\wamp\bin\apache\Apache2.2.17\conf` (your Apache version may differ), and make the following edits:
 
 Find the following line:
 

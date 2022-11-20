@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Reflect"
-date: "2015-06-10"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/902/es6-everyday-reflect
 ---
 
 Yesterday, we talked about the new [`Proxy`](http://www.loganfranken.com/blog/900/es6-everyday-proxies/) object in ES6, a construct that enables meta-programming in JavaScript. While we're on that topic, let's look at a new built-in object within ES6: **`Reflect`**.

@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Template Strings"
-date: "2015-04-21"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/821/es6-everyday-template-strings
 ---
 
 I'm pretty pumped about this one.

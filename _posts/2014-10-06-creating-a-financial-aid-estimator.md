@@ -1,11 +1,8 @@
 ---
+layout: blog
 title: "Creating a Financial Aid Estimator"
-date: "2014-10-06"
-categories: 
-  - "development"
-tags: 
-  - "net"
-  - "financial-aid"
+categories: Tutorials
+redirect_from: /blog/615/creating-a-financial-aid-estimator
 ---
 
 (**Disclaimer:** The Aid Estimator libraries are owned by my employer, the University of California, Santa Barbara. The views expressed in this post do not necessarily reflect the views of the University of California, Santa Barbara or the Regents of the University of California.)

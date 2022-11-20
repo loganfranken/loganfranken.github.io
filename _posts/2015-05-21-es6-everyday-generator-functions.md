@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Generator Functions"
-date: "2015-05-21"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/1065/es6-everyday-generator-functions
 ---
 
 Remember [yesterday](http://www.loganfranken.com/blog/886/es6-everyday-the-iterator-protocol/) when I showed you how to write a function that would _generate_ an iterator?

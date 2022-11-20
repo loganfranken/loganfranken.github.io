@@ -1,11 +1,8 @@
 ---
+layout: blog
 title: "The Stories Our Systems Tell"
-date: "2016-10-16"
-categories: 
-  - "higher-education"
-tags: 
-  - "higher-ed"
-  - "open-source"
+categories: Essays
+redirect_from: /blog/1460/the-stories-our-systems-tell
 ---
 
 _This is a post based on a talk I gave at [HighEdWeb 2016](https://2016reg.highedweb.org/psessions/detail/b11b1f29-cec2-4e85-aa11-d66419d7dd41). View the [slides](https://speakerdeck.com/loganfranken/inside-the-black-box-open-source-and-higher-education-systems)._
@@ -30,13 +27,13 @@ Anything for the [Test of English as a Foreign Language (TOEFL) score report](ht
 
 After searching around in vain, I concluded: **[there is no open-source higher education ecosystem](https://www.loganfranken.com/blog/1375/there-is-no-open-source-higher-education-ecosystem/)**.
 
-![There is No Open Source Higher Education Ecosystem](images/black_box_01.png)
+![There is No Open Source Higher Education Ecosystem](/blog/images/black_box_01.png)
 
 ## A Desert
 
 Of course, **I knew there were _some_ open-source higher education projects out there**. In fact, working on the [UCLA Mobile Web Framework](https://github.com/ucla/mwf), a major open-source project for creating higher education mobile device experience websites, was one of my first experiences working in open-source.
 
-[![Screenshot of UCLA Mobile Web Framework website](images/black_box_02.png)](http://mwf.ucla.edu/)
+[![Screenshot of UCLA Mobile Web Framework website](/blog/images/black_box_02.png)](http://mwf.ucla.edu/)
 
 However, these projects are few and far between.
 
@@ -62,7 +59,7 @@ The major roadblock for open-source in higher education is **a false dichotomy b
 
 Either you choose a full, comprehensive open-source solution or a full, comprehensive closed-source solution from a vendor. Either you choose [Moodle](https://moodle.org/) or you choose [Blackboard](http://www.blackboard.com/).
 
-![Moodle and Blackboard logos](images/black_box_03.png)
+![Moodle and Blackboard logos](/blog/images/black_box_03.png)
 
 So, on the flip side: if you're building an open-source higher education system, either you build a full, comprehensive open-source system that can compete with a vendor or you don't try at all.
 
@@ -78,7 +75,7 @@ I wondered if maybe universities just needed _examples_. When I'm arguing for op
 
 So I created a website: **[University Commons](http://www.universitycommons.io/)**. With University Commons, I wanted to create **a list of every higher education open-source project** I could find.
 
-[![University Commons logo and title](images/black_box_04.png)](http://www.universitycommons.io/)
+[![University Commons logo and title](/blog/images/black_box_04.png)](http://www.universitycommons.io/)
 
 Now, I wasn't interested in collecting _any_ higher education open source project: **there are many useful open-source projects out there that can't be directly used by other universities**.
 
@@ -108,7 +105,7 @@ There _is_ a constellation of higher education organizations, collaborating with
 
 They're called **libraries.**
 
-![Libraries share code](images/black_box_05.png)
+![Libraries share code](/blog/images/black_box_05.png)
 
 ## An Oasis
 
@@ -130,7 +127,7 @@ Out of the 69 higher education organizations currently listed on the [Universiti
 
 One of my favorite projects is University of Arizona Library's [Guide on the Side](http://code.library.arizona.edu/gots/), a tool for creating guided online tutorials through websites (like this [tour of Wikipedia](http://code.library.arizona.edu/gots-sample/tutorial/wikipedia-demo)).
 
-[![Sreenshot of Guide on the Side](images/black_box_06.png)](http://code.library.arizona.edu/gots/)
+[![Sreenshot of Guide on the Side](/blog/images/black_box_06.png)](http://code.library.arizona.edu/gots/)
 
 Another favorite is [QuickSearch](https://github.com/NCSU-Libraries/quick_search) from NCSU Libraries, a toolkit for setting up a search interface for a library using the "Bento Box" approach.
 
@@ -158,7 +155,7 @@ At their core, libraries are public spaces for gathering and sharing knowledge. 
 
 Put another way: **sharing information is the _story_ of the library**. It is the narrative that weaves throughout their culture, informing how we perceive libraries and how they see themselves.
 
-![Open-source is part of the library story](images/black_box_07.png)
+![Open-source is part of the library story](/blog/images/black_box_07.png)
 
 And, since sharing information is the seminal story of the library, **sharing code is a natural extension of this story**: libraries share code because sharing information is what libraries do.
 
@@ -172,7 +169,7 @@ Looking back at the rest of the higher education landscape, **what stories do we
 
 Universities are spaces of higher learning. Of diverse experiences and perspectives. Of new growth, new possibilities. Of innovative, radical thinking.
 
-![What stories are we telling?](images/black_box_08.png)
+![What stories are we telling?](/blog/images/black_box_08.png)
 
 **But is this the story our systems are telling?**
 
@@ -190,7 +187,7 @@ Even if we are told the story of the lagging bureaucracy, this isn't the story w
 
 **Through open-source, we can start telling our own stories that disrupt this narrative.**
 
-![What stories do we want to tell?](images/black_box_09.png)
+![What stories do we want to tell?](/blog/images/black_box_09.png)
 
 We can expect that, when we need to build higher education systems, we won't be forced to choose between expensive, black box products or an in-house solutions. We will expect a community out there, waiting to share their projects with us, inviting us to collaborate and share in return; to build better solutions for our students, faculty, and staff through the collective, dedicated efforts of a hard-working, talented network of higher education professionals.
 

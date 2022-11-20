@@ -1,11 +1,8 @@
 ---
+layout: blog
 title: "ASP.NET Page Life Cycle and Exceptions"
-date: "2014-01-05"
-categories: 
-  - "development"
-tags: 
-  - "asp-net"
-  - "web-forms"
+categories: Tutorials
+redirect_from: /blog/434/asp-net-page-life-cycle-and-exceptions
 ---
 
 A few months ago at work, we were working with a complex ASP.NET Web Forms application built by a third-party. There were a number of performance problems with the application, a few of which we traced back to database connections that were left open. However, we noticed that there _was_ logic for closing the connections, so how were they left open?

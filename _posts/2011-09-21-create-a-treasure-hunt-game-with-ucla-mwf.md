@@ -1,11 +1,11 @@
 ---
 layout: blog
 title: Create a Treasure Hunt Game With the UCLA Mobile Web Framework
-date: 2011-09-21
 categories: Tutorials
+redirect_from: /blog/143/create-a-treasure-hunt-game-with-ucla-mwf
 ---
 
-The [UCLA Mobile Web Framework (UCLA MWF)](https://mwf.ucla.edu/) is a cross-platform mobile web framework from UCLA. It allows developers to quickly create mobile websites with some basic markup and a few CSS classes. To test it out, I created a small demo, called [Treasure Hunt](https://treasure.loganfranken.com/). It's a simple mobile game where you can bury treasure in a certain spot (using geolocation) and someone else can dig it up. [Fork it on GitHub](https://github.com/loganfranken/Treasure-Hunt)!
+The [UCLA Mobile Web Framework (UCLA MWF)](https://github.com/ucla-oarc-mobile/mwf) is a cross-platform mobile web framework from UCLA. It allows developers to quickly create mobile websites with some basic markup and a few CSS classes. To test it out, I created a small demo, called Treasure Hunt. It's a simple mobile game where you can bury treasure in a certain spot (using geolocation) and someone else can dig it up. [Fork it on GitHub](https://github.com/loganfranken/Treasure-Hunt)!
 
 The UCLA MWF is wonderfully easy to set up. You start by adding a few simple bits of markup in the `head`:
 
@@ -56,11 +56,11 @@ Now we can add in our markup:
 
 As you can see, we just put together a little bit of markup and we get the following:
 
-![UCLA MWF Treasure Hunt Standard](images/uclamwf_screenshot1.png "UCLA MWF Treasure Hunt Standard")
+![UCLA MWF Treasure Hunt Standard](/blog/images/uclamwf_screenshot1.png "UCLA MWF Treasure Hunt Standard")
 
 Which, on basic devices, degrades to:
 
-![UCLA MWF Treasure Hunt Basic](images/uclamwf_screenshot2.png "UCLA MWF Treasure Hunt Basic")
+![UCLA MWF Treasure Hunt Basic](/blog/images/uclamwf_screenshot2.png "UCLA MWF Treasure Hunt Basic")
 
 Finally, to get at the geolocation data, the UCLA MWF provides a straightforward `getPosition` function that either uses [Google Gears](https://code.google.com/apis/gears/api_geolocation.html) or the standard HTML5 geolocation library, depending on the device's capabilities:
 
@@ -88,6 +88,6 @@ mwf.touch.geolocation.getPosition(
 );
 ```
 
-You can, of course, dig into the [full source code on GitHub](https://github.com/loganfranken/Treasure-Hunt) and, more importantly, you can play the [Treasure Hunt demo right now](https://treasure.loganfranken.com/)!
+You can, of course, dig into the [full source code on GitHub](https://github.com/loganfranken/Treasure-Hunt)!
 
 The UCLA MWF is off to a great start, and I'm excited to [watch it evolve](https://github.com/ucla/mwf/wiki/Roadmap). They have a growing base of support and adoption from other universities and their commitment to a "least common denominator" mobile platform should be reassuring to institutions looking for a more accessible mobile framework.

@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "Using Web Forms Responsibly (Part 4): Watch the Outcome"
-date: "2014-08-04"
-categories: 
-  - "development"
-tags: 
-  - "net"
-  - "asp-net"
-  - "web-forms"
+categories: Tutorials
+redirect_from: /blog/579/using-web-forms-responsibly-part-4-watch-the-outcome
 ---
 
 For my final post on using ASP.NET Web Forms, I want to talk about, what I feel, is the most important aspect of wrangling Web Forms applications: **keeping an eye on the output**.

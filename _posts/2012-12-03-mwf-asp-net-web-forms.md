@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "MWF ASP.NET Web Forms"
-date: "2012-12-03"
-categories: 
-  - "development"
-tags: 
-  - "asp-net"
-  - "css"
-  - "ucla-mwf"
+categories: Projects
+redirect_from: /blog/358/mwf-asp-net-web-forms/ 
 ---
 
 In the 1.3 release of the [UCLA Mobile Web Framework](http://mwf.ucla.edu/), the [Forms API](http://mwf.ucla.edu/framework13/doc/index.php?p=entity/form) was introduced, providing an easy mechanism for styling forms for display on a mobile device.

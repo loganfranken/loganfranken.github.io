@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Class Inheritance"
-date: "2015-05-13"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/855/es6-everyday-class-inheritance
 ---
 
 Continuing our exploration of classes in ES6, we also get **classical-style inheritance** too.

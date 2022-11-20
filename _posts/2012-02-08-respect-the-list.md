@@ -1,8 +1,8 @@
 ---
+layout: blog
 title: "Respect the List"
-date: "2012-02-08"
-categories: 
-  - "writing"
+categories: Essays
+redirect_from: /blog/336/respect-the-list
 ---
 
 As part of my work, I help people rewrite the content for their website. When combing through the content of a website, I often come across content shoved into a list, like this:

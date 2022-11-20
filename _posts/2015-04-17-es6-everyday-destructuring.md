@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "ES6 Everyday: Destructuring"
-date: "2015-04-17"
-categories: 
-  - "development"
-tags: 
-  - "es6"
-  - "es6everyday"
-  - "javascript"
+categories: Tutorials
+redirect_from: /blog/837/es6-everyday-destructuring
 ---
 
 We've got a really exciting one to close out our week!

@@ -1,12 +1,8 @@
 ---
+layout: blog
 title: "Why Your Web Application Can't Connect to SQL Server"
-date: "2016-01-04"
-categories: 
-  - "development"
-tags: 
-  - "asp-net"
-  - "sql"
-  - "sql-server"
+categories: Tutorials
+redirect_from: /blog/1345/why-your-web-application-cant-connect-to-sql-server
 ---
 
 One of the trickiest problems I encountered when I was just starting ASP.NET web development was debugging issues with my web application connecting to SQL server, _especially_ when connecting to a local instance of SQL Server.
@@ -39,13 +35,13 @@ Second, **ensure that the instance of SQL server has not stopped.**
 
 You can do this by accessing the "Services" list in Windows. In Windows 10, this is simply a tab on the Task Manager:
 
-![Top portion of the Task Manager in Windows 10, with the Services tab selected](images/debugging_sql_server_4.png)
+![Top portion of the Task Manager in Windows 10, with the Services tab selected](/blog/images/debugging_sql_server_4.png)
 
 (In earlier versions of Windows go to "Run" and enter "services.msc".)
 
 Once you have accessed the list of Services, look for your instance of SQL server in the list (probably named `MSSQLSERVER` or `MSSQL$SQLEXPRESS`) and ensure that is "Running." If it has stopped, simply right-click the service and click "Start":
 
-![SQL Server instance selected in list of Services with mouse hovering over option to start service](images/debugging_sql_server_1.png)
+![SQL Server instance selected in list of Services with mouse hovering over option to start service](/blog/images/debugging_sql_server_1.png)
 
 ## Login failed for user ''
 
@@ -77,7 +73,7 @@ First, **double-check the database name in your connection string is spelled cor
 
 Second, **ensure your website's domain account has permissions to access the database:**
 
-![Screenshot of SQL Server Management Studio with the users assigned to a particular database displayed](images/debugging_sql_server_2.png)
+![Screenshot of SQL Server Management Studio with the users assigned to a particular database displayed](/blog/images/debugging_sql_server_2.png)
 
 ## Login failed for user 'DOMAIN\\Username'
 
@@ -87,4 +83,4 @@ This is _similar_ to the error above. The slight difference, however, is that th
 
 This means that your website's application pool account does not have permissions to access the database instance itself (_not_ the actual database, but the _instance_ on which the database is hosted):
 
-![Screenshot of SQL Server Management Studio with the users assigned to a particular SQL server instance displayed](images/debugging_sql_server_3.png)
+![Screenshot of SQL Server Management Studio with the users assigned to a particular SQL server instance displayed](/blog/images/debugging_sql_server_3.png)
