@@ -2,7 +2,7 @@
 layout: blog
 title: "CSSOff 2013 Round-up"
 categories: Research
-redirect_from: /blog/480/cssoff-2013-round-up
+redirect_from: /blog/480/cssoff-2013-round-up/
 ---
 
 The [CSSOff](http://www.unmatchedstyle.com/cssoff/) is an annual competition where web designers are given two weeks to turn a Photoshop mock-up into a functional web page. Submissions are judged on a [number of factors](http://www.unmatchedstyle.com/cssoff/rules.php), from code cleanliness to browser support to performance.

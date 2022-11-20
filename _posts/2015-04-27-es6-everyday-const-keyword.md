@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: const Keyword"
 categories: Tutorials
-redirect_from: /blog/843/es6-everyday-const-keyword
+redirect_from: /blog/843/es6-everyday-const-keyword/
 ---
 
 Starting off our week with one that's pretty straightforward: the `const` keyword.

@@ -2,7 +2,7 @@
 layout:	blog
 title: HTML5 Canvas Balloon
 categories: Doodles
-redirect_from: /blog/64/html5-canvas-balloon
+redirect_from: /blog/64/html5-canvas-balloon/
 ---
 Today we’re going to draw a balloon on the HTML5 canvas element. Why not, right? Here’s the final result:
 

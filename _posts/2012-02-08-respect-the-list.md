@@ -2,7 +2,7 @@
 layout: blog
 title: "Respect the List"
 categories: Essays
-redirect_from: /blog/336/respect-the-list
+redirect_from: /blog/336/respect-the-list/
 ---
 
 As part of my work, I help people rewrite the content for their website. When combing through the content of a website, I often come across content shoved into a list, like this:

@@ -2,7 +2,7 @@
 layout: blog
 title: "Open Source at UCSB"
 categories: Research
-redirect_from: /blog/1330/open-source-at-ucsb
+redirect_from: /blog/1330/open-source-at-ucsb/
 ---
 
 Recently, I've been digging a little deeper into the topic of open-source in higher education. To start, I'm trying to gather together examples of what schools are currently doing with open-source.

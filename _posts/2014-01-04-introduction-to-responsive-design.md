@@ -2,7 +2,7 @@
 layout: blog
 title: "Introduction to Responsive Design"
 categories: Talks
-redirect_from: /blog/429/introduction-to-responsive-design
+redirect_from: /blog/429/introduction-to-responsive-design/
 ---
 
 Last November I gave a workshop on responsive design at UCSB. To be honest, it wasn't one of my better talks: my example project had an inconsistent difficulty curve (we started with some `:after` pseudo element trickery before digging into basic responsive grid layout techniques).

@@ -2,7 +2,7 @@
 layout: blog
 title: "Unobtrusive Validation in ASP.NET 4.5"
 categories: Research
-redirect_from: /blog/315/unobtrusive-validation-in-asp-net-4-5
+redirect_from: /blog/315/unobtrusive-validation-in-asp-net-4-5/
 ---
 
 While listening to the [2011 BUILD presentations](http://www.buildwindows.com/), I overheard one of the speakers talking about "unobtrusive validation" in ASP.NET 4.5 Web Forms. Well, I had to see this for myself.

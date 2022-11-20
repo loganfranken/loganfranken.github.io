@@ -2,7 +2,7 @@
 layout: blog
 title: "The Stories Our Systems Tell"
 categories: Essays
-redirect_from: /blog/1460/the-stories-our-systems-tell
+redirect_from: /blog/1460/the-stories-our-systems-tell/
 ---
 
 _This is a post based on a talk I gave at [HighEdWeb 2016](https://2016reg.highedweb.org/psessions/detail/b11b1f29-cec2-4e85-aa11-d66419d7dd41). View the [slides](https://speakerdeck.com/loganfranken/inside-the-black-box-open-source-and-higher-education-systems)._

@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Tagged Template Strings"
 categories: Tutorials
-redirect_from: /blog/825/es6-everyday-tagged-template-strings
+redirect_from: /blog/825/es6-everyday-tagged-template-strings/
 ---
 
 Remember the [template strings](http://www.loganfranken.com/blog/821/es6-everyday-template-strings/) from yesterday? Well, we can go one step further with them:

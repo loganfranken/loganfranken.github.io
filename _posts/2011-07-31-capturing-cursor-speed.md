@@ -2,7 +2,7 @@
 layout:	blog
 title: Capturing Cursor Speed with jQuery
 categories: Projects
-redirect_from: /blog/49/capturing-cursor-speed
+redirect_from: /blog/49/capturing-cursor-speed/
 ---
 I’ve been playing around with the canvas element lately, and I came up with a few fun ideas that would require capturing the speed of the User’s cursor movements. I looked around a little and only found a few bare scripts here and there, so I decided to package the logic into a jQuery plug-in called **Cursometer**.
 

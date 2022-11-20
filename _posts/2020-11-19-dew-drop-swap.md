@@ -2,7 +2,7 @@
 layout: blog
 title: "Dew Drop Swap"
 categories: ["Video Games"]
-redirect_from: /blog/1660/dew-drop-swap
+redirect_from: /blog/1660/dew-drop-swap/
 ---
 
 In 2017, game designer Jennifer Scheurle started [a Twitter thread](https://www.polygon.com/2017/9/2/16247112/video-game-developer-secrets), asking designers to share mechanics that are "hidden" from players. The thread included a number of fascinating anecdotes:

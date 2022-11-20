@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: yield* Keyword"
 categories: Tutorials
-redirect_from: /blog/1069/es6-everyday-yield-keyword
+redirect_from: /blog/1069/es6-everyday-yield-keyword/
 ---
 
 To finish up our discussion on generators, let's try something:

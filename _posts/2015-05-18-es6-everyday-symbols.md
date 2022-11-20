@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Symbols"
 categories: Tutorials
-redirect_from: /blog/882/es6-everyday-symbols
+redirect_from: /blog/882/es6-everyday-symbols/
 ---
 
 Alright, get yourself a cup of coffee: this one can be confusing.

@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday"
 categories: Tutorials
-redirect_from: /blog/798/es6-everyday
+redirect_from: /blog/798/es6-everyday/
 ---
 
 The formal publication date of [ECMAScript 6](http://en.wikipedia.org/wiki/ECMAScript) (the parent standard of the JavaScript language) is [June 2015](http://www.2ality.com/2014/06/es6-schedule.html).

@@ -2,7 +2,7 @@
 layout: blog
 title: "Responsive Design: Real Talk"
 categories: Talks
-redirect_from: /blog/389/responsive-design-real-talk
+redirect_from: /blog/389/responsive-design-real-talk/
 ---
 
 I had a really wonderful time listening to all of the fantastic minds at the [2013 HighEd Web West conference](http://west.highedweb.org/) at the (beautiful) Chapman University.

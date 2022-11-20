@@ -2,7 +2,7 @@
 layout: blog
 title: "Using Web Forms Responsibly (Part 3): Don't Go Control Crazy"
 categories: Tutorials
-redirect_from: /blog/563/using-web-forms-responsibly-part-3-dont-go-control-crazy
+redirect_from: /blog/563/using-web-forms-responsibly-part-3-dont-go-control-crazy/
 ---
 
 Say I want to link a user to my "About.aspx" page.

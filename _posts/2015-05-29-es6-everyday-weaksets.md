@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: WeakSets"
 categories: Tutorials
-redirect_from: /blog/1095/es6-everyday-weaksets
+redirect_from: /blog/1095/es6-everyday-weaksets/
 ---
 
 If you've been following along, you might have expected this one: [`Map`](http://www.loganfranken.com/blog/888/es6-everyday-maps/), [`Set`](http://www.loganfranken.com/blog/890/es6-everyday-weakmaps/), [`WeakMap`](http://www.loganfranken.com/blog/890/es6-everyday-weakmaps/), and now (_drumroll_) **`WeakSet`**.

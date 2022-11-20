@@ -2,7 +2,7 @@
 layout: blog
 title: Create a Treasure Hunt Game With the UCLA Mobile Web Framework
 categories: Tutorials
-redirect_from: /blog/143/create-a-treasure-hunt-game-with-ucla-mwf
+redirect_from: /blog/143/create-a-treasure-hunt-game-with-ucla-mwf/
 ---
 
 The [UCLA Mobile Web Framework (UCLA MWF)](https://github.com/ucla-oarc-mobile/mwf) is a cross-platform mobile web framework from UCLA. It allows developers to quickly create mobile websites with some basic markup and a few CSS classes. To test it out, I created a small demo, called Treasure Hunt. It's a simple mobile game where you can bury treasure in a certain spot (using geolocation) and someone else can dig it up. [Fork it on GitHub](https://github.com/loganfranken/Treasure-Hunt)!

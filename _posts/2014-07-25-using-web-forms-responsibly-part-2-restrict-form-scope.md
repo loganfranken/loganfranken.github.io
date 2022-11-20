@@ -2,7 +2,7 @@
 layout: blog
 title: "Using Web Forms Responsibly (Part 2): Restrict Form Scope"
 categories: Tutorials
-redirect_from: /blog/548/using-web-forms-responsibly-part-2-restrict-form-scope
+redirect_from: /blog/548/using-web-forms-responsibly-part-2-restrict-form-scope/
 ---
 
 Let's talk about a common problem in ASP.NET Web Forms.

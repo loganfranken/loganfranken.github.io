@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Shorthand Properties and Methods"
 categories: Tutorials
-redirect_from: /blog/910/es6-everyday-shorthand-properties-and-methods
+redirect_from: /blog/910/es6-everyday-shorthand-properties-and-methods/
 ---
 
 Take a look at this:

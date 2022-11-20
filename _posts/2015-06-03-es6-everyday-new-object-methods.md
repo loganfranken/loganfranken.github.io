@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: New Object Methods"
 categories: Tutorials
-redirect_from: /blog/908/es6-everyday-new-object-methods
+redirect_from: /blog/908/es6-everyday-new-object-methods/
 ---
 
 Hey, you want some new object methods? ES6's got 'em:

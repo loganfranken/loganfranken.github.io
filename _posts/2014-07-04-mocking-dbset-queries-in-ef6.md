@@ -2,7 +2,7 @@
 layout: blog
 title: "Mocking DbSet Queries in EF6"
 categories: Tutorials
-redirect_from: /blog/517/mocking-dbset-queries-in-ef6
+redirect_from: /blog/517/mocking-dbset-queries-in-ef6/
 ---
 
 I've been working on a project that uses Entity Framework and [Moq](https://github.com/Moq/moq4). So, naturally, I ran into a situation where I wanted to mock DbSet:

@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Maps"
 categories: Tutorials
-redirect_from: /blog/888/es6-everyday-maps
+redirect_from: /blog/888/es6-everyday-maps/
 ---
 
 ES6 gives us a new, native data structure: the **`Map`**!

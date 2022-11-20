@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: New Number Methods and Properties"
 categories: Tutorials
-redirect_from: /blog/877/es6-everyday-new-number-methods-and-properties
+redirect_from: /blog/877/es6-everyday-new-number-methods-and-properties/
 ---
 
 (After this post, I'll be taking a week off, so I'll see you all in a week!)

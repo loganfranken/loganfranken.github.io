@@ -2,7 +2,7 @@
 layout: blog
 title: "Introduction to Web Accessibility"
 categories: Talks
-redirect_from: /blog/496/introduction-to-web-accessibility
+redirect_from: /blog/496/introduction-to-web-accessibility/
 ---
 
 ![Photo of Logan Franken speaking](/blog/images/photo-1024x768.jpg)

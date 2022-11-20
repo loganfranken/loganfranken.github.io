@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: WeakMaps"
 categories: Tutorials
-redirect_from: /blog/890/es6-everyday-weakmaps
+redirect_from: /blog/890/es6-everyday-weakmaps/
 ---
 
 A couple days ago, we learned about [Maps](http://www.loganfranken.com/blog/888/es6-everyday-maps/) in ES6. There is a strange counterpart to the new map data structure: the **`WeakMap`**.

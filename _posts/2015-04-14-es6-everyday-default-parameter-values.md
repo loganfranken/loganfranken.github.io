@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Default Parameter Values"
 categories: Tutorials
-redirect_from: /blog/800/es6-everyday-default-parameter-values
+redirect_from: /blog/800/es6-everyday-default-parameter-values/
 ---
 
 Our first one's pretty self-explanatory: with ES6, you can now provide **default values** for function parameters:

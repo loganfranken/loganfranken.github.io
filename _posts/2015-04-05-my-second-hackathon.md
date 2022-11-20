@@ -2,7 +2,7 @@
 layout: blog
 title: "My Second Hackathon"
 categories: Essays
-redirect_from: /blog/917/my-second-hackathon
+redirect_from: /blog/917/my-second-hackathon/
 ---
 
 ![Opening night presentations](/blog/images/CAlbK_XUMAApGfY.jpg)

@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Template Strings"
 categories: Tutorials
-redirect_from: /blog/821/es6-everyday-template-strings
+redirect_from: /blog/821/es6-everyday-template-strings/
 ---
 
 I'm pretty pumped about this one.

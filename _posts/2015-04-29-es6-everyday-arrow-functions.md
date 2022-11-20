@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Arrow Functions"
 categories: Tutorials
-redirect_from: /blog/850/es6-everyday-arrow-functions
+redirect_from: /blog/850/es6-everyday-arrow-functions/
 ---
 
 Get ready for a fun one!

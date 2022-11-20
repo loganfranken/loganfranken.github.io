@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Class Inheritance"
 categories: Tutorials
-redirect_from: /blog/855/es6-everyday-class-inheritance
+redirect_from: /blog/855/es6-everyday-class-inheritance/
 ---
 
 Continuing our exploration of classes in ES6, we also get **classical-style inheritance** too.

@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: for..of Loops and the Iterable Protocol"
 categories: Tutorials
-redirect_from: /blog/884/es6-everyday-for-of-loops-and-the-iterable-protocol
+redirect_from: /blog/884/es6-everyday-for-of-loops-and-the-iterable-protocol/
 ---
 
 Remember yesterday when we learned about this weird new data type called [symbols](http://www.loganfranken.com/blog/882/es6-everyday-symbols/)?

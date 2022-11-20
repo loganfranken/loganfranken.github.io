@@ -2,7 +2,7 @@
 layout: blog
 title: "UCCSC Talks"
 categories: Talks
-redirect_from: /blog/397/uccsc-talks
+redirect_from: /blog/397/uccsc-talks/
 ---
 
 This year's [UCCSC](https://uccsc.uci.edu/) at UC Irvine was a lot of fun: it's always nice (and reassuring) to hear about the experiences and challenges of those building student systems at the other UCs.

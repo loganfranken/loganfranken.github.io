@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Classes"
 categories: Tutorials
-redirect_from: /blog/852/es6-everyday-classes
+redirect_from: /blog/852/es6-everyday-classes/
 ---
 
 After a week hiatus, we're back!

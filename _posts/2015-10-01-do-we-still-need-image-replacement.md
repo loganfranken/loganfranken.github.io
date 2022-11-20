@@ -2,7 +2,7 @@
 layout: blog
 title: "Do We Still Need Image Replacement?"
 categories: Research
-redirect_from: /blog/1244/do-we-still-need-image-replacement
+redirect_from: /blog/1244/do-we-still-need-image-replacement/
 ---
 
 Let's have a history lesson.

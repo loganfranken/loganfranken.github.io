@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Sets"
 categories: Tutorials
-redirect_from: /blog/892/es6-everyday-sets
+redirect_from: /blog/892/es6-everyday-sets/
 ---
 
 Along with [Map](http://www.loganfranken.com/blog/888/es6-everyday-maps/), ES6 also gives us another data structure: the **`Set`**!

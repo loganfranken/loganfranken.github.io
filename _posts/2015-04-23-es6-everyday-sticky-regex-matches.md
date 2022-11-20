@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Sticky Regex Matches"
 categories: Tutorials
-redirect_from: /blog/831/es6-everyday-sticky-regex-matches
+redirect_from: /blog/831/es6-everyday-sticky-regex-matches/
 ---
 
 So you know the `lastIndex` property of regular expressions in JavaScript? If not, here's a review:

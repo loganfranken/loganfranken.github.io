@@ -2,7 +2,7 @@
 layout: blog
 title: "Set Up UCLA Mobile Web Framework on WampServer"
 categories: Tutorials
-redirect_from: /blog/220/device-classification-in-the-ucla-mobile-web-framework
+redirect_from: /blog/220/device-classification-in-the-ucla-mobile-web-framework/
 ---
 
 **UPDATE**: If you read this post before, you might be wondering where all of the stuff about [WURFL](http://wurfl.sourceforge.net/) went. Well, since [version 1.2](https://github.com/ucla/mwf/blob/master/RELEASE), the UCLA Mobile Web Framework no longer depends on WURFL. This actually makes the installation process much smoother. Device capabilities are now determined by [storing information from Modernizr in a cookie]({% post_url 2011-10-02-device-classification-in-the-ucla-mobile-web-framework %}).

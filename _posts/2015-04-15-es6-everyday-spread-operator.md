@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Spread Operator"
 categories: Tutorials
-redirect_from: /blog/813/es6-everyday-spread-operator
+redirect_from: /blog/813/es6-everyday-spread-operator/
 ---
 
 This one can be a little confusing at first: ES6 provides a new **spread operator** (`...`) that allows you to expand an expression into multiple elements.

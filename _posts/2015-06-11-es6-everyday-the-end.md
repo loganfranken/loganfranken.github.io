@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: The End"
 categories: Tutorials
-redirect_from: /blog/1161/es6-everyday-the-end
+redirect_from: /blog/1161/es6-everyday-the-end/
 ---
 
 We made it!

@@ -2,7 +2,7 @@
 layout: blog
 title: "My Second JS13K"
 categories: ["Video Games"]
-redirect_from: /blog/1226/my-second-js13k
+redirect_from: /blog/1226/my-second-js13k/
 ---
 
 This last month, I competed in my second **[JS13K competition](http://js13kgames.com/)**.

@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: New Math Methods"
 categories: Tutorials
-redirect_from: /blog/861/es6-everyday-new-math-methods
+redirect_from: /blog/861/es6-everyday-new-math-methods/
 ---
 
 Most of these go over my head, but there's a lot of fresh new Math methods in ES6:

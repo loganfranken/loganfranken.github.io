@@ -2,7 +2,7 @@
 layout: blog
 title: "Accessibility of Labelless Inputs"
 categories: Research
-redirect_from: /blog/1196/accessibility-of-labelless-inputs
+redirect_from: /blog/1196/accessibility-of-labelless-inputs/
 ---
 
 When reading about web accessibility, you tend to hear a couple of axioms repeated over and over, like:

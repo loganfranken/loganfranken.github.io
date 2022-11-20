@@ -2,7 +2,7 @@
 layout: blog
 title: "Seattle Open Data Day 2015"
 categories: Essays
-redirect_from: /blog/745/my-first-hackathon
+redirect_from: /blog/745/my-first-hackathon/
 ---
 
 ![Attendees gathering to choose the topics for the Seattle Open Data Day](/blog/images/IMG_20150221_101722140_HDR-1024x576.jpg)

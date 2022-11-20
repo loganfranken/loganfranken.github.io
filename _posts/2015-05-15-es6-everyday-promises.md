@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Promises"
 categories: Tutorials
-redirect_from: /blog/879/es6-everyday-promises
+redirect_from: /blog/879/es6-everyday-promises/
 ---
 
 Let's close out the week with something really exciting!

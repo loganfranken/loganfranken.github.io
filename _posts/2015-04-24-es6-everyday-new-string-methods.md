@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: New String Methods"
 categories: Tutorials
-redirect_from: /blog/869/es6-everyday-new-string-methods
+redirect_from: /blog/869/es6-everyday-new-string-methods/
 ---
 
 Let's end the week with an easy topic: some handy new String methods in ES6.

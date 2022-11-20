@@ -2,7 +2,7 @@
 layout: blog
 title: "Why I Write a Blog No One Reads"
 categories: Essays
-redirect_from: /blog/704/why-i-write-a-blog-no-one-reads
+redirect_from: /blog/704/why-i-write-a-blog-no-one-reads/
 ---
 
 Let's be honest: this isn't a well-read blog.

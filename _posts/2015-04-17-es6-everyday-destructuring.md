@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: Destructuring"
 categories: Tutorials
-redirect_from: /blog/837/es6-everyday-destructuring
+redirect_from: /blog/837/es6-everyday-destructuring/
 ---
 
 We've got a really exciting one to close out our week!

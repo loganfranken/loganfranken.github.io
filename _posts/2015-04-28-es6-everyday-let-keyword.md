@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: let Keyword"
 categories: Tutorials
-redirect_from: /blog/845/es6-everyday-let-keyword
+redirect_from: /blog/845/es6-everyday-let-keyword/
 ---
 
 JavaScript does something you might not expect with local variable scoping:

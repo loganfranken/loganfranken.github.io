@@ -2,7 +2,7 @@
 layout: blog
 title: "ES6 Everyday: New Array Methods"
 categories: Tutorials
-redirect_from: /blog/896/es6-everyday-new-array-methods
+redirect_from: /blog/896/es6-everyday-new-array-methods/
 ---
 
 ES6 brings a whole slew of new `Array` methods. Let's check them out:

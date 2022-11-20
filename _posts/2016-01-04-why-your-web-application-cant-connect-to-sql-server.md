@@ -2,7 +2,7 @@
 layout: blog
 title: "Why Your Web Application Can't Connect to SQL Server"
 categories: Tutorials
-redirect_from: /blog/1345/why-your-web-application-cant-connect-to-sql-server
+redirect_from: /blog/1345/why-your-web-application-cant-connect-to-sql-server/
 ---
 
 One of the trickiest problems I encountered when I was just starting ASP.NET web development was debugging issues with my web application connecting to SQL server, _especially_ when connecting to a local instance of SQL Server.

@@ -2,7 +2,7 @@
 layout: blog
 title: "My First Hackathon"
 categories: Essays
-redirect_from: /blog/745/my-first-hackathon
+redirect_from: /blog/745/my-first-hackathon/
 ---
 
 This past weekend, I participated in my _first_ hackathon: ["Hack Housing"](http://www.data.gov/local/hackhousing) hosted by Zillow, a hackathon focused on using public housing data provided by the [U.S. Department of Housing and Urban Development (HUD)](http://zillowhack.hud.opendata.arcgis.com/) and other government agencies to help low-income renters and senior citizens find housing.

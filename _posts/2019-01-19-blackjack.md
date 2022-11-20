@@ -2,7 +2,7 @@
 layout: blog
 title: "Blackjack"
 categories: ["Video Games"]
-redirect_from: /blog/1582/blackjack
+redirect_from: /blog/1582/blackjack/
 ---
 
 In the late nineties, my grandfather passed away, leaving behind his farm. In his old age, he hadn't been able to upkeep the land and it was falling apart: there were no crops, no animals, and the fields were covered in rocks and weeds. It was a mess. My father wanted to sell, but I couldn't bear to lose the farm: it felt like we were selling off a piece of my grandfather. So, against the better judgement of my friends, family, and all common sense, I uprooted my life and moved onto my grandfather's farm, dedicating myself to restoring the old plot of land to its former glory.

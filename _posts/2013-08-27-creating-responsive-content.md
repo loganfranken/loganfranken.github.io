@@ -2,7 +2,7 @@
 layout: blog
 title: "Creating Responsive Content"
 categories: Talks
-redirect_from: /blog/400/creating-responsive-content
+redirect_from: /blog/400/creating-responsive-content/
 ---
 
 Today I gave a talk on creating responsive content for content creators at UCSB. It generated a lot of really wonderful discussion about how we can streamline content to best communicate information to students.

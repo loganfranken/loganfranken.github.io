@@ -2,7 +2,7 @@
 layout: blog
 title: "There is No Open-Source Higher Education Ecosystem"
 categories: Essays
-redirect_from: /blog/1375/there-is-no-open-source-higher-education-ecosystem
+redirect_from: /blog/1375/there-is-no-open-source-higher-education-ecosystem/
 ---
 
 _This is a post based on a talk I gave at [HighEdWeb West 2016](http://west16.highedweb.org/schedule/open-source/). View the [slides](https://speakerdeck.com/loganfranken/turning-the-monolith-inside-out-open-source-and-higher-education-systems)._

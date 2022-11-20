@@ -2,7 +2,7 @@
 layout: blog
 title: "Using Web Forms Responsibly (Part 1)"
 categories: Tutorials
-redirect_from: /blog/536/using-web-forms-responsibly-part-1
+redirect_from: /blog/536/using-web-forms-responsibly-part-1/
 ---
 
 I am not a huge fan of ASP.NET Web Forms.

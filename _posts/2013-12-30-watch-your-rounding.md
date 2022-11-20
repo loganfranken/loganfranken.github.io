@@ -2,7 +2,7 @@
 layout: blog
 title: "Watch Your Rounding in .NET"
 categories: Tutorials
-redirect_from: /blog/424/watch-your-rounding
+redirect_from: /blog/424/watch-your-rounding/
 ---
 
 While working on the [Financial Aid Estimator project](https://github.com/ucsbfinaid/Financial-Aid-Estimator-.NET/), which involves a number of calculations, I noticed that I would sometimes receive slightly inaccurate results: an "Asset Contribution" total, for example, might be off by a dollar or two.
