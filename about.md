@@ -1,5 +1,6 @@
 ---
 curr_section: about
+title: About
 ---
 
 # About Me
