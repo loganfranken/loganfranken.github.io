@@ -9,7 +9,7 @@ My name is **Logan Franken**.
 I'm a **full-stack web developer**. I live in Seattle.
 
 I love **making code work for people**. I work as a full-stack
-engineer at [Indeed](https://www.indeed.com/), helping people get jobs.
+engineer at **[Indeed](https://www.indeed.com/)**, helping people get jobs.
 
 My e-mail is [loganfranken@gmail.com](mailto:loganfranken@gmail.com).
 I'm on [Twitter](https://twitter.com/loganfranken),
@@ -41,8 +41,8 @@ a groundbreaking Indigenous-centered project series. For the yəhaw̓ website,
 I built an <a href="https://github.com/loganfranken/yehaw-map" aria-label="GitHub page for the yəhaw̓ map project">interactive map</a> and
 a <a href="https://github.com/loganfranken/yehaw-search" aria-label="GitHub page for the yəhaw̓ search project">search widget</a>.
 
-A recurring focus of my work has been **open-source and higher education**.
-One of my favorite projects from work is an <a href="https://github.com/ucsbfinaid">open-source implementation of the
+A recurring focus of my work in the past has been **open-source and higher education**.
+One of my favorite projects was an <a href="https://github.com/ucsbfinaid">open-source implementation of the
 federal expected family contribution formula</a>. Most of the University of California institutions use these
 libraries to power their net price calculators, which prospective students use to estimate the cost of college.
 
