@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Set Up UCLA Mobile Web Framework on WampServer"
-categories: Tutorial
+categories: Tutorials
 redirect_from: /blog/220/device-classification-in-the-ucla-mobile-web-framework
 ---
 

@@ -395,7 +395,7 @@ main section
 
 .post-list
 {
-	margin: 0;
+	margin: 0 0 3em 0;
 	padding: 0;
 	list-style: none;
 }

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Device Classification in the UCLA Mobile Web Framework"
-categories: Tutorial
+categories: Tutorials
 redirect_from: /blog/220/device-classification-in-the-ucla-mobile-web-framework
 ---
 

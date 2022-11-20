@@ -10,7 +10,7 @@ layout: default
     {{ content }}
     <footer>
 		<span class="taxonomy">
-            <span class="category">Posted in <a href="/blog/topics#{{ page.categories[0] }}">{{ page.categories[0] }}</a></span>
+            <span class="category">Posted in <a href="/blog/categories#{{ page.categories[0] | slugify }}">{{ page.categories[0] }}</a></span>
 		</span>
 	</footer>
 

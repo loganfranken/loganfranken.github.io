@@ -2,7 +2,7 @@
 layout: blog
 title: "Extending the UCLA Mobile Web Framework Geolocation API"
 date: "2011-10-09"
-categories: Tutorial
+categories: Tutorials
 redirect_from: /blog/239/extending-the-ucla-mobile-web-framework-geolocation-api/
 ---
 
