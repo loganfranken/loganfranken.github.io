@@ -7,7 +7,7 @@ curr_section: blog
     <header>
         <h1>{{ page.title }}</h1>
     </header>
-    <time class="post-date" datetime="{{ page.date }}">{{ page.date | date_to_long_string: "oridinal", "US" }}</time>
+    <time class="post-date" datetime="{{ page.date }}">{{ page.date | date: "%B %e, %Y" }}</time>
     {{ content }}
     <footer>
 		<span class="taxonomy">
