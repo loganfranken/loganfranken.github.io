@@ -1,7 +1,7 @@
 ---
 layout:	blog
 title: HTML5 Circle Puzzle
-topic: Doodles
+categories: Doodles
 redirect_from: /blog/22/html5-circle-puzzle
 ---
 I was messing around with the HTML5 canvas element this morning, and I came up with something kind of fun. It’s basically a puzzle built with a series of rotating concentric circles that you can drag. Here’s a screenshot:

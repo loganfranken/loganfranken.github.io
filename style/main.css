@@ -402,17 +402,8 @@ main section
 
 .post-list li
 {
-    margin-bottom: 1.5em;
-}
-
-.post-list .excerpt
-{
-    font-size: 0.6em;
-}
-
-.post-list h2
-{
-    margin-bottom: 0.5em;
+    font-weight: bold;
+    margin: 0 0 0.5em 0.5em;
 }
 
 /* =BLOG-MEDIA-QUERIES
