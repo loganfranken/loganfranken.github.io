@@ -13,8 +13,7 @@ I love **making code work for people**. I work as a full-stack
 engineer at **[Indeed](https://www.indeed.com/)**, helping people get jobs.
 
 My e-mail is [loganfranken@gmail.com](mailto:loganfranken@gmail.com).
-I'm on [Twitter](https://twitter.com/loganfranken),
-[itch.io](https://loganfranken.itch.io/),
+I'm on [itch.io](https://loganfranken.itch.io/),
 [GitHub](https://github.com/loganfranken), and
 [LinkedIn](https://www.linkedin.com/in/loganfranken/).
 
