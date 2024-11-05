@@ -30,7 +30,7 @@
 
             <nav role="navigation">
                 <ul>
-                    <li{% if page.curr_section == "blog" %} class="selected" {% endif %}><a href="/blog">Blog</a></li>
+                    <li{% if page.curr_section != "about" && page.curr_section != "home" %} class="selected" {% endif %}><a href="/blog">Blog</a></li>
                     <li{% if page.curr_section == "about" %} class="selected" {% endif %}><a href="/about">About</a></li>
                 </ul>
             </nav>

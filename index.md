@@ -1,4 +1,5 @@
 ---
+curr_section: home
 title: Home
 ---
 
