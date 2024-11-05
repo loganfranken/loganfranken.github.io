@@ -5,7 +5,7 @@ title: Home
 # Hello!
 
 My name is **Logan Franken**.
-I'm a **full-stack web developer**.
+I'm a **senior engineering lead**.
 
 Learn a little more <a href="/about">about me</a> or check out a couple of my recent projects:
 

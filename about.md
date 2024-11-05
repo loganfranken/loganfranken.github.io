@@ -7,7 +7,7 @@ title: About
 
 My name is **Logan Franken**.
 
-I'm a **full-stack web developer**. I live in Seattle.
+I'm a **senior engineering lead**. I live in Brooklyn.
 
 I love **making code work for people**. I work as a full-stack
 engineer at **[Indeed](https://www.indeed.com/)**, helping people get jobs.
@@ -53,8 +53,9 @@ projects in one place.
 ## Presentations
 
 Public speaking is a skill I've gradually developed over time: as a junior
-developer, I served as the **chair of the Developer Collaboration Group** for
-several years, hosting trainings and facilitating discussion.
+developer, I served as the **chair of a Developer Collaboration Group** for
+several years within my department at the University of California, Santa Barbara,
+hosting trainings and facilitating discussion.
 
 I eventually branched out beyond our department, becoming the
 **president of the university Toastmasters group** and the
