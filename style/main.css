@@ -29,11 +29,6 @@
     --form-border-color-active: var(--secondary-color);
     --form-font-stack: var(--base-font-stack);
     
-    --nav-font-stack: var(--base-font-stack);
-    --nav-text-color: var(--base-text-color);
-    --nav-selected-color: var(--primary-color);
-    --nav-selected-color-alt: #FFF;
-    
     --post-date-color: var(--base-text-color);
     
     --error-color: #C00;
@@ -232,75 +227,6 @@ p
   }
 }
 
-/* =NAVIGATION
-------------------------------------------------------- */
-
-nav
-{
-	font-family: var(--nav-font-stack);
-	font-size: 1.5em;
-    font-weight: 900;
-	margin: 10% 0 15%;
-    overflow: auto;
-}
-
-nav ul
-{
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-nav li
-{
-    float: left;
-    text-align: center;
-    width: 50%;
-}
-
-nav li.selected a
-{
-  border-bottom: 5px solid var(--nav-selected-color);
-  color: var(--nav-selected-color);
-}
-
-nav a
-{
-    border-width: 0 0 3px 0;
-    color: var(--nav-text-color);
-    display: inline-block;
-    padding-bottom: 3%;
-    text-align: center;
-    text-decoration: none;
-}
-
-nav a:hover, nav a:visited
-{
-  color: var(--nav-text-color);
-}
-
-@media (min-width: 25em)
-{
-    nav
-    {
-        font-size: 2.25em;
-    }
-}
-
-@media (min-width: 32em)
-{
-  nav
-  {
-    margin-top: 1.75em;
-  }
-
-  nav li
-  {
-    max-width: 4em;
-    width: 25%;
-  }
-}
-
 /* =MAIN
 ------------------------------------------------------- */
 
@@ -329,7 +255,7 @@ main section
 {
     main
     {
-        margin-top: 2em;
+        margin-top: 10em;
         padding: 0 2.5%;
     }
 }
