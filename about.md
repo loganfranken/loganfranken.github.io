@@ -70,8 +70,7 @@ Other departments around campus have also asked me to present on
 and <a href="https://www.loganfranken.com/blog/400/creating-responsive-content/">creating responsive content</a>.
 
 Gaining confidence within the university, I finally branched out to talking at conferences,
-including <a href="https://www.loganfranken.com/blog/389/responsive-design-real-talk/">2013 HighEd Web West</a>,
-<a href="https://www.loganfranken.com/blog/1375/there-is-no-open-source-higher-education-ecosystem/">2016 HighEd Web West</a>,
+including <a href="https://www.loganfranken.com/blog/1375/there-is-no-open-source-higher-education-ecosystem/">2016 HighEd Web West</a>,
 <a href="https://www.loganfranken.com/blog/1460/the-stories-our-systems-tell/">2016 HighEd Web</a>,
 <a href="https://www.loganfranken.com/blog/397/uccsc-talks/">UCCSC</a>, and
 <a href="https://www.loganfranken.com/blog/420/mmwcon-2013/">MMWCon</a>.
