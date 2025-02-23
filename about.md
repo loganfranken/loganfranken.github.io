@@ -65,8 +65,7 @@ I eventually branched out beyond our department, becoming the
 and <a href="https://www.loganfranken.com/blog/532/overview-of-web-standards/" aria-label="UCSB Web Standards Group web standards workshop">web standards</a>.
 
 Other departments around campus have also asked me to present on
-<a href="https://www.loganfranken.com/blog/675/creating-dynamic-web-content/">creating dynamic web content</a>
-and <a href="https://www.loganfranken.com/blog/400/creating-responsive-content/">creating responsive content</a>.
+<a href="https://www.loganfranken.com/blog/675/creating-dynamic-web-content/">creating dynamic web content</a>.
 
 Gaining confidence within the university, I finally branched out to talking at conferences,
 including <a href="https://www.loganfranken.com/blog/1375/there-is-no-open-source-higher-education-ecosystem/">2016 HighEd Web West</a>,
