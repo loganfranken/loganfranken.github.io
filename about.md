@@ -60,8 +60,7 @@ hosting trainings and facilitating discussion.
 I eventually branched out beyond our department, becoming the
 **president of the university Toastmasters group** and the
 **chair of the Web Standards Group**, hosting workshops on
-<a href="https://www.loganfranken.com/blog/429/introduction-to-responsive-design/" aria-label="UCSB Web Standards Group responsive design workshop">responsive design</a>,
-<a href="https://www.loganfranken.com/blog/496/introduction-to-web-accessibility/" aria-label="UCSB Web Standards Group web accessibility workshop">web accessibility</a>,
+<a href="https://www.loganfranken.com/blog/496/introduction-to-web-accessibility/" aria-label="UCSB Web Standards Group web accessibility workshop">web accessibility</a> 
 and <a href="https://www.loganfranken.com/blog/532/overview-of-web-standards/" aria-label="UCSB Web Standards Group web standards workshop">web standards</a>.
 
 Other departments around campus have also asked me to present on
