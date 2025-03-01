@@ -49,23 +49,3 @@ libraries to power their net price calculators, which prospective students use t
 I also tried building out a <a href="https://github.com/universitycommons/">search engine for open-source
 higher education projects</a>. It never took off, but it was inspiring to bring together so many wonderful
 projects in one place.
-
-## Presentations
-
-Public speaking is a skill I've gradually developed over time: as a junior
-developer, I served as the **chair of a Developer Collaboration Group** for
-several years within my department at the University of California, Santa Barbara,
-hosting trainings and facilitating discussion.
-
-I eventually branched out beyond our department, becoming the
-**president of the university Toastmasters group** and the
-**chair of the Web Standards Group**, hosting workshops on
-<a href="https://www.loganfranken.com/blog/496/introduction-to-web-accessibility/" aria-label="UCSB Web Standards Group web accessibility workshop">web accessibility</a> 
-and <a href="https://www.loganfranken.com/blog/532/overview-of-web-standards/" aria-label="UCSB Web Standards Group web standards workshop">web standards</a>.
-
-Other departments around campus have also asked me to present on
-<a href="https://www.loganfranken.com/blog/675/creating-dynamic-web-content/">creating dynamic web content</a>.
-
-Gaining confidence within the university, I finally branched out to talking at conferences,
-including <a href="https://www.loganfranken.com/blog/1375/there-is-no-open-source-higher-education-ecosystem/">2016 HighEd Web West</a> and 
-<a href="https://www.loganfranken.com/blog/1460/the-stories-our-systems-tell/">2016 HighEd Web</a>.
